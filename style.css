@@ -12,16 +12,31 @@
     h1 {
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: blue;
+        text-align: center;
+    }
+    
+    h2 {
+        text-align: center;
     }
     
     nav ul li {
         display: inline;
         text-decoration: none;
+        text-align: center;
+        padding: 20px;
+        border: 1px black;
+        background: yellow;
     }
     
     span {
         font-weight: bold;
         color: red;
+    }
+    
+    footer {
+        font-size: 0.9em;
+        color: gray;
+        text-align: center;
     }
     /* MEDIA QUERY (medium) */
     /* MEDIA QUERY (large) */
