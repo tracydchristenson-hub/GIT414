@@ -19,10 +19,15 @@
         text-align: center;
     }
     
+    nav ul {
+        text-align: center;
+    }
+    
     nav ul li {
         display: inline;
         text-decoration: none;
         text-align: center;
+        margin: 10px;
         padding: 20px;
         border: 1px black;
         background: yellow;
