@@ -1,4 +1,4 @@
-/* CSS BY  */
+/* CSS BY Tracy Christenson */
 
 
 /* IMPORTED FONTS */
@@ -11,6 +11,16 @@
 
 
 /*  GLOBAL STYLES*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
 
 
 /* MEDIA QUERY (medium) */
