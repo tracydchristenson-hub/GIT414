@@ -1,32 +1,28 @@
-/* CSS BY Tracy Christenson */
-
-
-/* IMPORTED FONTS */
-
-
-/* CSS REST */
-
-
-/* ROOT VARIABLES */
-
-
-/*  GLOBAL STYLES*/
-
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-}
-
-h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blue;
-}
-
-
-/* MEDIA QUERY (medium) */
-
-
-/* MEDIA QUERY (large) */
-
-
-/* MEDIA QUERY (xl) */
+    /* CSS BY Tracy Christenson */
+    /* IMPORTED FONTS */
+    /* CSS REST */
+    /* ROOT VARIABLES */
+    /*  GLOBAL STYLES*/
+    
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+    }
+    
+    h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blue;
+    }
+    
+    nav ul li {
+        display: inline;
+        text-decoration: none;
+    }
+    
+    span {
+        font-weight: bold;
+        color: red;
+    }
+    /* MEDIA QUERY (medium) */
+    /* MEDIA QUERY (large) */
+    /* MEDIA QUERY (xl) */
