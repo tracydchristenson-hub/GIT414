@@ -7,12 +7,18 @@
     body {
         font-family: Arial, Helvetica, sans-serif;
         color: black;
+        background: lightblue;
     }
     
     h1 {
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: blue;
         text-align: center;
+    }
+    
+    main {
+        width: 90%;
+        margin: auto;
     }
     
     h2 {
