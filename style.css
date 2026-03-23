@@ -18,6 +18,7 @@
     
     main {
         width: 90%;
+        padding: 50px;
         margin: auto;
         background: white;
     }
@@ -40,7 +41,7 @@
         margin: 10px;
         padding: 10px 20px;
         border: 1px solid black;
-        background: yellow;
+        background: #999933;
     }
     
     span {
@@ -53,7 +54,7 @@
         color: gray;
         text-align: center;
         background: white;
-        margin-top: 0;
+        padding: 30px;
         width: 90%;
         margin: auto;
     }
