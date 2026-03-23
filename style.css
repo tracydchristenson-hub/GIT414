@@ -41,7 +41,7 @@
         margin: 10px;
         padding: 10px 20px;
         border: 1px solid black;
-        background: #999933;
+        background: #ffffcc;
     }
     
     span {
@@ -54,7 +54,7 @@
         color: gray;
         text-align: center;
         background: white;
-        padding: 30px;
+        padding: 50px;
         width: 90%;
         margin: auto;
     }
